@@ -89,7 +89,7 @@
 #note small {
     position: relative;
     display: inline-block;
-    animation: mymove 5s infinite;
+    animation: mymove 15s infinite;
     animation-timing-function: all;
 }
 
@@ -180,8 +180,8 @@
 }
 
 .carousel-control-prev {
-    width: 90px;
-    height: 60px;
+    width: 50px;
+    height: 40px;
     position: absolute;
     top: 50%;
     left: 0;
@@ -196,8 +196,8 @@
 }
 
 .carousel-control-next {
-    width: 90px;
-    height: 60px;
+    width: 50px;
+    height: 40px;
     position: absolute;
     top: 50%;
     right: 0;
